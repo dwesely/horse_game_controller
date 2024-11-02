@@ -9,3 +9,5 @@ Seat forward and rear: "W" and "S" keys.
 Left and right leg: mouse left and mouse right.
 
 The first pass is using an [Adafruit QT Py RP2040](https://www.adafruit.com/product/4900):
+[controller_test_1](controller_test_1.mp4)
+![QT Py implementation test](qt_py_v1.jpg)]
